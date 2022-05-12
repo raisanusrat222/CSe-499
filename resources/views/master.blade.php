@@ -33,7 +33,7 @@
         background-color: #35443585 !important;
     }
     .trending-image{
-        height: 200px;
+        height: 150px;
     }
     .trening-item{
         float: left;
@@ -43,7 +43,7 @@
         margin: 30px;
     }
     .detail-img{
-        height: 200px;
+        height: 150px;
     }
     .search-box{
         width: 500px !important
